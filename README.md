@@ -1,6 +1,9 @@
 # Wyxos Media Engine
-A desktop application to browse, organise, download and set wallpapers. Supports [Wallhaven](https://wallhaven.cc) and html files.
+A desktop application to browse, organise, download and set wallpapers.
 
-[Download latest version](https://github.com/wyxos/media-engine-release/releases)
+Supports browsing the following websites:
+- [Wallhaven](https://wallhaven.cc)
+- [Nik Bot](https://nik.bot.nu)
 
+Download the latest version [here](https://github.com/wyxos/media-engine-release/releases)
 
