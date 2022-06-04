@@ -1,5 +1,5 @@
 # Wyxos Media Engine
-A desktop application to browse, organise, download and set wallpapers.
+A wallpaper browser and downloader. Enables you to set images, videos or html files as wallpapers.
 
 Supports browsing the following websites:
 - [Wallhaven](https://wallhaven.cc)
@@ -7,3 +7,4 @@ Supports browsing the following websites:
 
 Download the latest version [here](https://github.com/wyxos/media-engine-release/releases)
 
+If you like this project, consider supporting by buying me a coffee: [donate](https://www.paypal.com/paypalme/my/profile)
