@@ -1,5 +1,5 @@
 # Wyxos Media Engine
-A wallpaper browser and downloader. Enables you to set images, videos or html files as wallpapers (videos, and html are WIP).
+A wallpaper browser and wallpaper downloader. Allows you to set images, videos or html files as wallpapers.
 
 Supports browsing the following websites:
 - [Wallhaven](https://wallhaven.cc)
