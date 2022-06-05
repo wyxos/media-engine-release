@@ -7,4 +7,5 @@ Supports browsing the following websites:
 
 Download the latest version [here](https://github.com/wyxos/media-engine-release/releases)
 
-If you like this project, consider supporting by buying me a coffee: [donate](https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US)
+If you like this project, consider supporting by buying me a coffee:
+<a href="https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US"><strong>Donate</strong></a>
